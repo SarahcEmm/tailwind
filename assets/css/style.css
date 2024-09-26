@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
 
+
 body {
     font-family: Fraunces, sans-serif;
     color: #194f24;
@@ -75,5 +76,7 @@ img {
   box-shadow: #D6D6E7 0 3px 7px inset;
   transform: translateY(2px);
 }
+
+
 
 
