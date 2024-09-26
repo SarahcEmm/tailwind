@@ -31,6 +31,10 @@ body {
 img {
   margin: 20px auto;
 }
+#haggis-image {
+  display: flex;
+  margin: 0 auto;
+}
 
 .button-30 {
   align-items: center;
