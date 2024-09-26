@@ -16,6 +16,9 @@ body {
   background-color: rgba(25, 79, 36, 0.5);
   color: #194f24;
 }
+.haggis-image {
+  margin: 0 auto;
+}
 
 .jumbotron {
     background-color: rgba(25, 79, 36, 0.5);
