@@ -16,6 +16,7 @@ body {
 
 .jumbotron {
     background-color: rgba(25, 79, 36, 0.5);
+    margin: 20px;
 }
 .donate-box {
   background-color: rgba(25, 79, 36, 0.5);
@@ -25,6 +26,9 @@ body {
 .form-control {
   background-color: rgba(2, 27, 7, 0.1);
   color: #ffc400;
+}
+img {
+  margin: 20px auto;
 }
 
 .button-30 {
@@ -71,11 +75,5 @@ body {
   box-shadow: #D6D6E7 0 3px 7px inset;
   transform: translateY(2px);
 }
-
-  </div>
-
-  
-</body>
-</html>
 
 
